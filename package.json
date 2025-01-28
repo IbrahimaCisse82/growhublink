@@ -1,0 +1,12 @@
+{
+  "name": "mon-accelerator-app",
+  "version": "1.0.0",
+  "description": "Application de base pour un simulateur d'accélérateur de startups",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
